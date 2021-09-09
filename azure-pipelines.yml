@@ -9,3 +9,4 @@ variables:
   webRepository: 'web'
   tag: '$(Build.BuildId)'
   vmImageName: 'ubuntu-latest'
+
