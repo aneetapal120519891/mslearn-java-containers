@@ -1,4 +1,4 @@
-az configure --defaults location=westus2
+
 # resourceSuffix=$RANDOM
 
 # webName="java-container-cicd-${resourceSuffix}"
